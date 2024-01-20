@@ -1,11 +1,11 @@
 # Vasco Ramos
 
-Hi there! I'm Vasco Ramos, a passionate graduate student researcher specializing in Conversational AI and Multimodal Models.
+Hi there! I'm Vasco Ramos, a graduate student researcher specializing in Conversational AI and Multimodal Models.
 
 ## About Me
 
 - 🎓 I'm currently pursuing a Master's degree in Computer Science at NOVA School of Science and Technology, Lisbon, Portugal.
-- 💡 My primary research focus revolves around advancing media generation models so they can generate coherent data.
+- 💡 My primary research focus is about advancing image/video generation models so they can generate coherent data.
 - 🏆 I and my team had the honor of winning the Amazon Alexa Prize TaskBot Challenge 2. 
 
 
