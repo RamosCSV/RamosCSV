@@ -22,5 +22,3 @@ Hi there! I'm Vasco Ramos, a graduate student researcher specializing in Convers
 ## Get in Touch
 
 📫 You can reach out to me via [LinkedIn](https://linkedin.com/in/ramoscsv) or email me at vcc.ramos@campus.fct.unl.pt
-
-Don't hesitate to reach out for discussions or inquiries.
